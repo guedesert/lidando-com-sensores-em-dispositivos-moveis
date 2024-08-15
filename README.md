@@ -1,0 +1,1 @@
+# lidando-com-sensores-em-dispositivos-moveis
